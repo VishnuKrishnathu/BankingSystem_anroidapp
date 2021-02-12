@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ABC Bank</string>
+    <string name="logo">Faster Money Transfer</string>
+    <string name="string_logo">Hello World</string>
+    <string name="button_text">Proceed to payment</string>
+    <string name="first_name">Vishnu</string>
+    <string name="last_name">Krishnathu</string>
+    <string name="balance_text">Account Balance : </string>
+    <string name="amount">50000</string>
+    <string name="details_firstname">First Name : </string>
+    <string name="details_lastname">Last Name : </string>
+    <string name="details_age">Age : </string>
+    <string name="age">22</string>
+    <string name="gender">Gender : </string>
+    <string name="details_gender">Male</string>
+    <string name="payment">Make Payment</string>
+    <string name="paymentfinished">Payment Successful</string>
+    <string name="done">Done</string>
+</resources>
